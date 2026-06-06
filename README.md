@@ -21,5 +21,8 @@ Your goal is to determine which combination of prompting technique + platform pr
 5.User experience
 
 OUTPUT:
+https://github.com/ssrajuresh-oss/Prompt-Engineering-EXP.No-2/blob/main/Prompt%20Engineering%20Ex%20No3%2012page%20Report.docx
 
 RESULT:
+Evaluated and compared multiple prompting techniques (zero-shot, few-shot, chain-of-thought, and role-based) across AI platforms for text summarization.
+Identified the most effective platform-prompt combination based on accuracy, coherence, simplicity, speed, and overall user experience.
